@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://cdn.wallpapersafari.com/97/50/eRwDMy.jpg");
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.titre {
+  font-size: 100px;
+  color: white;
+  text-shadow: black 1px 0 3px;
+}
+
+.textedumenu {
+  color: white;
+  text-shadow: black 1px 0 3px;
+  font-size: 30px;
+}
